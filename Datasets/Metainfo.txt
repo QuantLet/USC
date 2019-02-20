@@ -1,5 +1,5 @@
 
-Name of Quantlet:  ETH_BC_Scraping.py
+Name of Quantlet:  ETH_BC_Scraping
 
  
 
