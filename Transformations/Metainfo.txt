@@ -1,5 +1,5 @@
 
-Name of Quantlet:  Clustering
+Name of Quantlet:  CSC_Clustering
 
  
 
