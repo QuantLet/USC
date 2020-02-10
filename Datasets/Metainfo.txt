@@ -1,5 +1,5 @@
 
-Name of Quantlet:  ETH_BC_Scraping
+Name of Quantlet:  CSC_ETH_BC_Scraping
 
  
 
