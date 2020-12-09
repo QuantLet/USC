@@ -1,4 +1,6 @@
 SC-over-time/data/*
+SC-over-time/.ipynb_checkpoints
+SC-over-time/.ipynb_checkpoints/*
 
 SC-Dapp-scraping/data/*
 SC-Dapp-scraping/deprecated_data/*
@@ -7,6 +9,8 @@ SC-Dapp-scraping/token.txt
 SC-Dapp-scraping/.ipynb_checkpoints
 
 SC-open-source-source-code-scraping/data/*
+
+SC-energy-consumption/data/*
 
 .DS_Store
 .DS_Store?
