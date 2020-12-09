@@ -1,3 +1,12 @@
 SC-over-time/data/*
+
+SC-Dapp-scraping/data/*
+SC-Dapp-scraping/deprecated_data/*
+SC-Dapp-scraping/address.txt
+SC-Dapp-scraping/token.txt
+SC-Dapp-scraping/.ipynb_checkpoints
+
+SC-open-source-source-code-scraping/data/*
+
 .DS_Store
 .DS_Store?
