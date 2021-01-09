@@ -19,3 +19,11 @@ nohup.out
 SC-Dapp-scraping/Untitled.ipynb
 SC-classification/CSC*
 SC-classification/.ipynb_checkpoints/
+
+SC-classification/models
+SC-classification/models/*
+SC-classification/results_BGRU.csv
+SC-classification/results_BGRU2.csv
+SC-classification/__pycache__/*
+SC-classification/__pycache__
+SC-classification/loop.py
