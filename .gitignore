@@ -27,3 +27,6 @@ SC-classification/results_BGRU2.csv
 SC-classification/__pycache__/*
 SC-classification/__pycache__
 SC-classification/loop.py
+
+SC-open-source-source-code-scraping/token.txt
+SC-open-source-source-code-scraping/.ipynb_checkpoints/
