@@ -17,3 +17,5 @@ SC-energy-consumption/data/*
 
 nohup.out
 SC-Dapp-scraping/Untitled.ipynb
+SC-classification/CSC*
+SC-classification/.ipynb_checkpoints/
