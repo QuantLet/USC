@@ -1,5 +1,5 @@
 
-Name of Quantlet:  SC_Net_Vis
+Name of Quantlet:  EtherNet_Visualization
 
  
 
