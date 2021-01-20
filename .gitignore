@@ -39,3 +39,7 @@ SC-literature-research/scopus/*
 
 SC-data-EDA/
 SC-data-EDA
+
+SC-classification/output_data/
+SC-classification/output_data/*
+SC-classification/output_data
