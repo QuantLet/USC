@@ -32,3 +32,10 @@ SC-classification/loop.py
 SC-open-source-source-code-scraping/token.txt
 SC-open-source-source-code-scraping/.ipynb_checkpoints/
 SC-open-source-source-code-scraping/._.DS_Store
+
+SC-literature-research/scopus/
+SC-literature-research/scopus
+SC-literature-research/scopus/*
+
+SC-data-EDA/
+SC-data-EDA
