@@ -45,3 +45,5 @@ SC-classification/output_data/*
 SC-classification/output_data
 
 SC-topics-unlabelled/data/unlabelled_withclusterlabels.csv
+
+Images_from_diff_sources
