@@ -36,6 +36,9 @@ SC-open-source-source-code-scraping/._.DS_Store
 SC-literature-research/scopus/
 SC-literature-research/scopus
 SC-literature-research/scopus/*
+SC-literature-research/output
+SC-literature-research/output/
+SC-literature-research/output/*
 
 SC-data-EDA/
 SC-data-EDA
