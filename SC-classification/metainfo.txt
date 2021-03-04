@@ -1,6 +1,6 @@
 Name of Quantlet: 'SC_classification'
 
-Published in: 'Hype or Hope? Understanding Smart Contracts.'
+Published in: 'Understanding Smart Contracts: Hype or Hope?'
 
 Description: 'This Quantlet is dedicated to classification of the Solidity source code using machine learning methods.
 We differentiate between traditional machine learning methods and deep learning.
