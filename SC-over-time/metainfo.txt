@@ -1,6 +1,6 @@
 Name of Quantlet: 'SC_over_time'
 
-Published in: 'Hype or Hope? Understanding Smart Contracts.'
+Published in: 'Understanding Smart Contracts: Hype or Hope?'
 
 Description: 'This Quantlet is dedicated to visualization of time-series of the amount of Smart contracts created since the invention of Ethereum'
 
