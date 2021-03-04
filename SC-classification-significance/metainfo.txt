@@ -1,6 +1,6 @@
 Name of Quantlet: 'SC-classification-significance'
 
-Published in: 'Hype or Hope? Understanding Smart Contracts.'
+Published in: 'Understanding Smart Contracts: Hype or Hope?'
 
 Description: 'This Quantlet is dedicated to test of the difference in performance of different training modes. The wilcoxon test is used.'
 
