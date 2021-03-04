@@ -1,22 +1,23 @@
-Name of Quantlet: 'SC_energy_consumption'
+Name of Quantlet: 'SC_over_time'
 
 Published in: 'Hype or Hope? Understanding Smart Contracts.'
 
-Description: 'This Quantlet is dedicated to visualization of time-series of energy consumption of Ethereum'
+Description: 'This Quantlet is dedicated to visualization of time-series of the amount of Smart contracts created since the invention of Ethereum'
 
 Quantlet Scripts Description:
-- SC_energy_consumption.ipynb visualizing energy consumption of Ethereum Transactions time-series
+- SC_over_time.ipynb visualizing the time-series
 
 
-Keywords: 'energy, visualization, time-series, Ethereum, smart contracts'
+Keywords: 'Kaggle, BigQuery, visualization, time-series, source code, Solidity, smart contracts'
 
 Author: 'Elizaveta Zinovyeva, Raphael Constantin Georg Reule'
 
-Submitted:  'Dec 10 2020 by Elizaveta Zinovyeva'
+Submitted:  'Jan 20 2021 by Elizaveta Zinovyeva'
 
 Datafile:
-- EECI_TWh - TWh per Year-2020-12-09.csv the file obtained through https://digiconomist.net/ethereum-energy-consumption
-
+- contracts_over_time_2020-12-09.csv the file created using BigQuery on Kaggle https://www.kaggle.com/bigquery/ethereum-blockchain https://www.kaggle.com/lizzzi1/contracts-over-time (the notebooks can also be found here, but the application requires the Ethereum BigQuery dataset on Kaggle)
+- transactions_over_time_2020-12-09.csv the file created using BigQuery on Kaggle https://www.kaggle.com/lizzzi1/transactions-over-time
+- source_codes_from_dapps.csv the file created within SC_Dapp_scraping quanlet
 
 Additional Notes:
 - you will need to create the additional data folder and store the first two datafiles there
