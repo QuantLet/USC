@@ -1,6 +1,6 @@
 Name of Quantlet: 'SC_topics_unlabelled'
 
-Published in: 'Hype or Hope? Understanding Smart Contracts.'
+Published in: 'Understanding Smart Contracts: Hype or Hope?'
 
 Description: 'This Quantlet is dedicated to clustering of the unlabelled open source Ethereum Smart Contracts.
 First, we encode our abstracts with Distilbert embeddings and using UMAP we reduce dimensionality reduction to perform K-Means, finally again using UMAP
