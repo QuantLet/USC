@@ -1,6 +1,6 @@
 Name of Quantlet: 'SC_open_source_scraping'
 
-Published in: 'Hype or Hope? Understanding Smart Contracts.'
+Published in: 'Understanding Smart Contracts: Hype or Hope?'
 
 Description: 'This Quantlet is dedicated to gathering data on the open source source codes of Solidity Smart Contracts using the API of https://etherscan.io/.
 Finally, the codes are parsed and preprocessed to extract comments and stored as a csv file.'
