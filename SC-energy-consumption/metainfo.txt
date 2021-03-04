@@ -1,4 +1,4 @@
-Name of Quantlet: 'SC_energy_consumption'
+Name of Quantlet: 'Understanding Smart Contracts: Hype or Hope?'
 
 Published in: 'Hype or Hope? Understanding Smart Contracts.'
 
