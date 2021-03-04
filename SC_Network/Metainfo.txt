@@ -3,7 +3,7 @@ Name of Quantlet:  EtherNet_Visualization
 
  
 
-Published in:      "Understanding Smart Contracts"
+Published in:      "Understanding Smart Contracts: Hype or Hope?"
 
   
 
