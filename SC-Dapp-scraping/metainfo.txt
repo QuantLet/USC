@@ -1,6 +1,6 @@
 Name of Quantlet: 'SC_Dapp_scraping'
 
-Published in: 'Hype or Hope? Understanding Smart Contracts.'
+Published in: 'Understanding Smart Contracts: Hype or Hope?'
 
 Description: 'This Quantlet is dedicated to gathering data on the open source source codes of Solidity Smart Contracts.
 First, the Ethereum Dapps names are obtained using the API https://www.stateofthedapps.com/. For each DApp the list of smart contract hashes were obtained if available (Also through the API of state of the Dapps).
