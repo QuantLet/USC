@@ -17,7 +17,7 @@ Author: 'Elizaveta Zinovyeva, Raphael Constantin Georg Reule'
 Submitted:  'Jan 12 2021 by Elizaveta Zinovyeva'
 
 Datafile:
-- scopus.csv the file created using Scopus database, containing titles of existing research papers with abstracts and keywords. Please consult the paper's appendix to get the exact Scopus query
+- scopus.csv the file created using Scopus database, containing titles of existing research papers with abstracts and keywords. Please find the Scopus query in scopus_query.txt
 - other datasets are created within this Quantlet, so please just use the codes in the order listed in Quantlet Scripts Description
 
 Additional Notes:
