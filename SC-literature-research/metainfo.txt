@@ -1,6 +1,6 @@
 Name of Quantlet: 'SC_literature_research'
 
-Published in: 'Hype or Hope? Understanding Smart Contracts.'
+Published in: 'Understanding Smart Contracts: Hype or Hope?'
 
 Description: 'This Quantlet is dedicated to topic modeling on the existing research on Ethereum Smart Contracts.
 First, we encode our abstracts with Distilbert embeddings and using UMAP we reduce dimensionality reduction to perform K-Means, finally again using UMAP
