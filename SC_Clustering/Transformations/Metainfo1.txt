@@ -1,9 +1,9 @@
 
-Name of Quantlet:  USC_Clustering
+Name of Quantlet:  CSC_Clustering
 
  
 
-Published in:      "Understanding Smart Contracts: Hype or Hope?"
+Published in:      "Clustering & Classifying Smart Contracts"
 
   
 
@@ -23,7 +23,7 @@ Author:            Raphael Constantin Georg Reule, Elizaveta Zinovyeva
 
   
 
-Submitted:         Wed, Mar 24 2021 by Raphael Reule
+Submitted:         Mon, Jan 07 2019 by Raphael Reule
 
   
 

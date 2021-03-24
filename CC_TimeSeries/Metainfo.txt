@@ -1,5 +1,5 @@
 
-Name of Quantlet:  USC_Clustering
+Name of Quantlet:  USC_TS
 
  
 
@@ -7,7 +7,7 @@ Published in:      "Understanding Smart Contracts: Hype or Hope?"
 
   
 
-Description:       "Clustering & Classifying Ethereum Smart Contracts"
+Description:       "Cryptocurrency and CRIX Time Series"
 
  
 
