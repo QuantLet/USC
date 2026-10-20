@@ -9,7 +9,7 @@ Name of Quantlet: SC_literature_research
 
 Published in: Understanding Smart Contracts: Hype or Hope?
 
-Description: This Quantlet is dedicated to topic modeling on the existing research on Ethereum Smart Contracts.
+Description: This Quantlet is dedicated to topic modeling on the existing research on Ethereum Smart Contracts. First, we encode our abstracts with Distilbert embeddings and using UMAP we reduce dimensionality reduction to perform K-Means, finally again using UMAP reduce dimensionality to 2, to be able to plot it.
 
 Quantlet Scripts Description: 
 - SC_literature_research.ipynb the code to create basic understanding of the Literature Research using its keywords
