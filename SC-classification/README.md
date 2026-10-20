@@ -9,9 +9,9 @@ Name of Quantlet: SC_classification
 
 Published in: Understanding Smart Contracts: Hype or Hope?
 
-Description: This Quantlet is dedicated to classification of the Solidity source code using machine learning methods.
+Description: This Quantlet is dedicated to classification of the Solidity source code using machine learning methods. We differentiate between traditional machine learning methods and deep learning.
 
-There are three modes for training these methods: on the source code, on the source code without comments and on only comments.
+There are three modes for training these methods: on the source code, on the source code without comments and on only comments. Moreover, deep pre-trained transformer BERT - the state-of-the-art approach in the NLP were used on the comments mode. Furthermore, additional feature extraction of the most important block names of the Solidity code was made and the best performing ML algorithm was trained on these features.'
 
 Quantlet Scripts Description: 
 - SC-classification.ipynb traditional ML methods on the Solidity source code
